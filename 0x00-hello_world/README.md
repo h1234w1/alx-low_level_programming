@@ -1,1 +1,1 @@
-This for hello
+This is a directory for initial c files
