@@ -1,1 +1,1 @@
-This is a for primary level programmig
+This directory is for primary programming exercises
